@@ -79,4 +79,12 @@
   "instagramUsername":"SaugatShrestha", 
   "facebookUsername":"codekavya"
  },
+ {
+  "name":"Rabina Shrestha",
+  "address":"Bhaktapur",
+  "skills":["Java", "Spring", "HTML", "CSS", "web developement"],
+  "githubuUsername":"rabina48",
+  "instagramUsername":"rabinash", 
+  "facebookUsername":"rabinashrestha"
+ }
 ]
